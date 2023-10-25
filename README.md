@@ -1,13 +1,13 @@
-<h1 align="center">I'm Oluwatofunmi Bolaji Ashraf</h1>
+<h1 align="center">I'm Oluwanifemi Akinterinwa</h1>
 <h3 align="center">Full-stack Developer (MERN)</h3>
 
-<p align="left"> <a href="https://twitter.com/tofunmithehuman" target="blank"><img src="https://img.shields.io/twitter/follow/tofunmithehuman?logo=twitter&style=for-the-badge" alt="tofunmithehuman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akinterinwa5" target="blank"><img src="https://img.shields.io/twitter/follow/akinterinwa5?logo=twitter&style=for-the-badge" alt="akinterinwa5" /></a> </p>
 
-- How to reach me **tofunmibolaji13@gmail.com**
+- How to reach me **akinterinwaoluwanifemi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tofunmithehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tofunmithehuman" height="30" width="40" /></a>
+<a href="https://twitter.com/akinterinwa5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinterinwa5" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tofunmithehuman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tofunmithehuman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20365120/tofunmithehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tofunmithehuman" height="30" width="40" /></a>
 <a href="https://instagram.com/tofunmithehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tofunmithehuman" height="30" width="40" /></a>
