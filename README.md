@@ -8,9 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akinterinwa5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akinterinwa5" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tofunmithehuman?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tofunmithehuman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20365120/tofunmithehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tofunmithehuman" height="30" width="40" /></a>
-<a href="https://instagram.com/tofunmithehuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tofunmithehuman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oluwanifemi-akinterinwa-242a82252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akinterinwa5" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20542544/akinterinwa-oluwanifemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akinterinwa5" height="30" width="40" /></a>
+<a href="https://www.instagram.com/oluwanifemi_akin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akinterinwa5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
